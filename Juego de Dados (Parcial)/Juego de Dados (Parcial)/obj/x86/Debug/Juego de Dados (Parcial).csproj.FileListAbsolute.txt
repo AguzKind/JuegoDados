@@ -1,0 +1,37 @@
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\Juego de Dados (Parcial).exe
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\Juego de Dados (Parcial).pdb
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Inicio.resources
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Juego.resources
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).exe
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).pdb
+C:\Documents and Settings\Administrador\Escritorio\Pini - POO\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\Juego de Dados (Parcial).exe
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\Juego de Dados (Parcial).pdb
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\mscorlib.dll
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\ES\mscorlib.resources.dll
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\sortkey.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\sorttbls.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\big5.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\bopomofo.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\ksc.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\prc.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\prcp.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\xjis.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\normidna.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\normnfc.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\normnfd.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\normnfkc.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\bin\Debug\normnfkd.nlp
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).csproj.AssemblyReference.cache
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Inicio.resources
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Juego.resources
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego_de_Dados__Parcial_.Properties.Resources.resources
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).csproj.GenerateResource.cache
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).csproj.CoreCompileInputs.cache
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).csproj.CopyComplete
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).exe
+F:\Programas C#\Juego de Dados (Parcial)\Juego de Dados (Parcial)\obj\x86\Debug\Juego de Dados (Parcial).pdb
